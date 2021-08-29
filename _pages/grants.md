@@ -14,6 +14,14 @@ permalink: /grants/
 <p><br/></p>
 <b> Principal investigator (Dr. Shi) </b><br/>
 
+<p>Air Pollution and Alzheimer’s Disease and Related Dementias: A National Study <br/>
+Funder: NIA (R01) <br/>
+Status: Active (9/2021-8/2026) <br/></p>    
+  
+<p>Climate Penalty: Climate-driven Increases in Ozone and PM2.5 Levels and Mortality <br/>
+Funder: NIEHS (R21) <br/>
+Status: Active (4/2021-3/2023) <br/></p>
+  
 <p>A Big Data Approach to PM2.5 and Its Components and Alzheimer’s Disease <br/>
 Funder: The HERCULES Exposome Research Center <br/>
 Status: Active (4/2020-3/2022) <br/></p>
@@ -21,22 +29,15 @@ Status: Active (4/2020-3/2022) <br/></p>
 <p>PM2.5 Components, Sources, and Alzheimer’s Disease and related dementias <br/>
 Funder: Emory Alzheimer’s Disease Research Center (P50) <br/>
 Status: Active (5/2020-4/2022) <br/></p>
-
-<p>Wildfire Smoke Exposure and Incident Stroke Among the Older Adults <br/>
-Funder: Emory Climate and Health Research Incubator (ECHRI) <br/>
-Status: Active (5/2021-8/2022) <br/></p>
   
 <p>PM2.5 components and overall and cause-specific mortality <br/>
 Funder: Dean's Pilot and Innovation Awards <br/>
 Status: Active (9/2021-8/2022) <br/></p>
-
-<p>Climate Penalty: Climate-driven Increases in Ozone and PM2.5 Levels and Mortality <br/>
-Funder: NIEHS (R21) <br/>
-Status: Active (4/2021-3/2023) <br/></p>
-
-<p>PM2.5 components and Alzheimer’s Disease and Related Dementias: A National Study <br/>
-Funder: NIA (R01) <br/>
-Status: Active (8/2021-8/2026) <br/></p>                                                
+                                 
+<p>Wildfire Smoke Exposure and Incident Stroke Among the Older Adults <br/>
+Funder: Emory Climate and Health Research Incubator (ECHRI) <br/>
+Status: Active (9/2021-8/2022) <br/></p>
+  
   
 <p><br/></p>
 <b>Co-investigator (Dr. Shi)</b> <br/>
