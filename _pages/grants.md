@@ -36,7 +36,7 @@ Status: Active (4/2021-3/2023) <br/></p>
 
 <p>PM2.5 components and Alzheimer’s Disease and Related Dementias: A National Study <br/>
 Funder: NIA (R01) <br/>
-Status: Selected for funding (7/2021-6/2026) <br/></p>                                                
+Status: Active (8/2021-8/2026) <br/></p>                                                
   
 <p><br/></p>
 <b>Co-investigator (Dr. Shi)</b> <br/>
