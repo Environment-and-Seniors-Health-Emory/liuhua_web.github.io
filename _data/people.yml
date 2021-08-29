@@ -63,20 +63,7 @@
   education5:
   statement:
   
-- name: "Yuhan Zhang"
-  photo: Yuhan_Zhang.png
-  group_member: 1
-  info: Research Assistant
-  email: yzh2698@emory.edu
-  number_educ: 1
-  education1: 2019-2021, Epidemiology
-  education2:
-  education3:
-  education4:
-  education5:
-  statement:
-  
-- name: "Tszshan Ma"
+  - name: "Tszshan Ma"
   photo: Tszshan_Ma.png
   group_member: 1
   info: Doctoral Student (rotation)
@@ -102,59 +89,20 @@
   education5:
   statement:
   
-- name: "Shiwen Huang"
-  photo: Shiwen_Huang.png
+- name: "Kuo Zhang"
+  photo: Kuo_Zhang.png
   group_member: 1
-  info: Master Student
-  email: shiwen.huang@emory.edu
+  info: Visiting PhD student (Tsinghua University)
+  email:  kuo.zhang@emory.edu
   number_educ: 1
-  education1: 2019-2021, Environmental Health
-  education2: 
-  education3: 
-  education4:
-  education5:
-  statement:
-
-- name: "Yaoyao Qian"
-  photo: Yaoyao_Qian.png
-  group_member: 1
-  info: Master Student
-  email: yaoyao.qian@emory.edu
-  number_educ: 1
-  education1: 2019-2021, Environmental Health
-  education2: 
-  education3: 
-  education4:
-  education5:
-  statement:
-
-- name: "Mingrui Wang"
-  photo: Mingrui_Wang.png
-  group_member: 1
-  info: Master Student
-  email: mingrui.wang@emory.edu
-  number_educ: 1
-  education1: 2019-2021, Environmental Health
+  education1: 2019-2021, Geography
   education2: 
   education3: 
   education4:
   education5:
   statement:
   
-- name: "Andrew Rosenberg"
-  photo: Andrew_Rosenberg.png
-  group_member: 1
-  info: Master Student
-  email: andrew.cory.rosenberg@emory.edu
-  number_educ: 1
-  education1: 2019-2021, Environmental Health
-  education2: 
-  education3: 
-  education4:
-  education5:
-  statement:
-
-- name: "Siyao Xiao"
+  - name: "Siyao Xiao"
   photo: Siyao_Xiao.jpg
   group_member: 1
   info: Master Student
@@ -167,11 +115,50 @@
   education5:
   statement:
   
-- name: "Sabrina Bogovic "
-  photo: Sabrina_Bogovic.jpeg
+- name: "Yuhan Zhang"
+  photo: Yuhan_Zhang.png
   group_member: 1
-  info: Master Student
-  email: sabrina.bogovic@emory.edu
+  info: Alumni
+  email: yzh2698@emory.edu
+  number_educ: 1
+  education1: 2019-2021, Epidemiology
+  education2:
+  education3:
+  education4:
+  education5:
+  statement:
+  
+- name: "Shiwen Huang"
+  photo: Shiwen_Huang.png
+  group_member: 1
+  info: Alumni
+  email: shiwen.huang@emory.edu
+  number_educ: 1
+  education1: 2019-2021, Environmental Health
+  education2: 
+  education3: 
+  education4:
+  education5:
+  statement:
+
+- name: "Yaoyao Qian"
+  photo: Yaoyao_Qian.png
+  group_member: 1
+  info: Alumni
+  email: yaoyao.qian@emory.edu
+  number_educ: 1
+  education1: 2019-2021, Environmental Health
+  education2: 
+  education3: 
+  education4:
+  education5:
+  statement:
+
+- name: "Mingrui Wang"
+  photo: Mingrui_Wang.png
+  group_member: 1
+  info: Alumni
+  email: mingrui.wang@emory.edu
   number_educ: 1
   education1: 2019-2021, Environmental Health
   education2: 
@@ -180,13 +167,26 @@
   education5:
   statement:
   
-- name: "Kuo Zhang"
-  photo: Kuo_Zhang.png
+- name: "Andrew Rosenberg"
+  photo: Andrew_Rosenberg.png
   group_member: 1
-  info: Visiting PhD student (Tsinghua University)
-  email:  kuo.zhang@emory.edu
+  info: Alumni
+  email: andrew.cory.rosenberg@emory.edu
   number_educ: 1
-  education1: 2019-2021, Geography
+  education1: 2019-2021, Environmental Health
+  education2: 
+  education3: 
+  education4:
+  education5:
+  statement:
+  
+- name: "Sabrina Bogovic "
+  photo: Sabrina_Bogovic.jpeg
+  group_member: 1
+  info: Alumni
+  email: sabrina.bogovic@emory.edu
+  number_educ: 1
+  education1: 2019-2021, Environmental Health
   education2: 
   education3: 
   education4:
