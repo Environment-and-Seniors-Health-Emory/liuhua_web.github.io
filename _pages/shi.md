@@ -38,7 +38,7 @@ Alzheimer's disease and related dementia<br/>
 
 2019.12-         Assistant Professor(Research), Emory University<br/>
 2019.02-2019.09  Postdoctoral Research Fellow, Harvard University <br/> 
-2016.09-2019.01  Consultant, Environmental Consulting Company<br/>
+2016.09-2019.01  Consultant, Consulting Company<br/>
 
 #### <b>EDUCATION</b>
 
