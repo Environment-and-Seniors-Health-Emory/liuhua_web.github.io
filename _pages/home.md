@@ -44,7 +44,7 @@ permalink: /
 </div>
 <p> <br /> </p>
 <p style="text-align:justify; text-justify:inter-ideograph;">
-To this end, our research combines remote sensing, machine learning, epidemiology, and statistical techniques. Our group is hosting and managing the nationwide Medicare datasets (the largest elderly cohort available to date) in the [Rollins School of Public Health](https://www.sph.emory.edu) at [Emory University](http://www.emory.edu).
+To this end, our research combines remote sensing, machine learning, epidemiology, and statistical techniques.
 </p>
 <p> <br /> </p>
 
