@@ -115,6 +115,19 @@
   education5:
   statement:
   
+- name: "Xianzhi Ye"
+  photo: Xianzhi_Ye.png
+  group_member: 1
+  info: Master Student
+  email: xianzhi.ye@emory.edu
+  number_educ: 1
+  education1: 2020-, Environmental Health
+  education2: 
+  education3: 
+  education4:
+  education5:
+  statement:
+  
 - name: "Siyao Xiao"
   photo: Siyao_Xiao.jpg
   group_member: 1
