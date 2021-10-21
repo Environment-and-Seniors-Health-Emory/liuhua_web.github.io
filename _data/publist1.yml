@@ -8,6 +8,17 @@
   highlight: 0
   news2:
   first_or_cor: 0  
+  
+- title: "Long-term effect of exposure to lower concentrations of air pollution on mortality among US Medicare participants and vulnerable subgroups: a doubly-robust approach"
+  image: dummy.png
+  description: ""
+  authors: Yazdi, MD.; Wang, Y.; Di, Q.; Requia, WJ.; Wei, Y.; <b>Shi, L.</b>; Sabath, MB.; Dominici, F.; Coull, B.; Evans, JS.; Koutrakis, P.; Schwartz, JD.
+  link:
+    url: https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(21)00204-7/fulltext
+    display: The Lancet Planetary Health, 2021
+  highlight: 0
+  news2:
+  first_or_cor: 0
 
 - title: "Blowing hot and cold over asthma hospitalisations"
   image: dummy.png
