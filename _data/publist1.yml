@@ -1,4 +1,14 @@
-  
+- title: "The 2021 Report of The Lancet Countdown on Health and Climate Change: Code Red for a Healthy Future"
+  image: dummy.png
+  description: ""
+  authors: The 2021 Lancet Countdown team (including <b>Shi, L.</b>)
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0140673621017876
+    display: The Lancet, 2021
+  highlight: 0
+  news2:
+  first_or_cor: 0  
+
 - title: "Blowing hot and cold over asthma hospitalisations"
   image: dummy.png
   description: ""
@@ -6,17 +16,6 @@
   link:
     url: http://thorax.bmj.com/cgi/content/full/thoraxjnl-2021-217178?ijkey=yElGDLQvWZCqaLR&keytype=ref
     display: Thorax, 2021
-  highlight: 0
-  news2:
-  first_or_cor: 0
-  
-- title: "The 2021 Report of The Lancet Countdown on Health and Climate Change"
-  image: dummy.png
-  description: ""
-  authors: The 2021 Lancet Countdown team (including <b>Shi, L.</b>)
-  link:
-    url: 
-    display: The Lancet, 2021 (In press)
   highlight: 0
   news2:
   first_or_cor: 0
