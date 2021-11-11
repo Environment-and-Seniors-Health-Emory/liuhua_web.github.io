@@ -9,6 +9,17 @@
   news2:
   first_or_cor: 0  
   
+- title: "Long-Term Association of Air Pollution and Hospital Admissions Among Medicare Participants Using a Doubly Robust Additive Model"
+  image: dummy.png
+  description: ""
+  authors: Yazdi, M.; Wang, Y.; Di, Q.; Wei, Y.; Requia, W.; <b>Shi, L.</b>; Sabath, M.; Dominici, F.; Coull, B.; Evans, J.; Koutrakis, P.; Schwartz, J.
+  link:
+    url: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.120.050252
+    display: Circulation, 2021
+  highlight: 0
+  news2:
+  first_or_cor: 0
+  
 - title: "Long-term effect of exposure to lower concentrations of air pollution on mortality among US Medicare participants and vulnerable subgroups: a doubly-robust approach"
   image: dummy.png
   description: ""
