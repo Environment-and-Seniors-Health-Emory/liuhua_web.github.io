@@ -23,6 +23,32 @@
   education4:
   education5:
   statement:
+  
+- name: "Qiao Zhu"
+  photo: Qiao_Zhu.png
+  group_member: 1
+  info: Postdoctoral Researcher (Exposure Modeling)
+  email: qiao.zhu@emory.edu
+  number_educ: 1
+  education1: 2021-, Environmental Sciences
+  education2:
+  education3:
+  education4:
+  education5:
+  statement:
+  
+- name: "Yifan Wang"
+  photo: Yifan_Wang.png
+  group_member: 1
+  info: Data Scientist
+  email: yifan.wang2@emory.edu
+  number_educ: 1
+  education1: 2021-, Environmental Health
+  education2:
+  education3:
+  education4:
+  education5:
+  statement:
 
 - name: "Haomin Li"
   photo: Haomin_Li.png
@@ -37,19 +63,6 @@
   education5:
   statement:
   
-- name: "Yifan Wang"
-  photo: Yifan_Wang.png
-  group_member: 1
-  info: Research Assistant
-  email: yifan.wang2@emory.edu
-  number_educ: 1
-  education1: 2021-, Environmental Health
-  education2:
-  education3:
-  education4:
-  education5:
-  statement:
-  
 - name: "Haisu Zhang"
   photo: Haisu_Zhang.png
   group_member: 1
@@ -57,19 +70,6 @@
   email: haisu.zhang@emory.edu
   number_educ: 1
   education1: 2021-, Epidemiology
-  education2:
-  education3:
-  education4:
-  education5:
-  statement:
-  
-- name: "Qiao Zhu"
-  photo: Qiao_Zhu.png
-  group_member: 1
-  info: Postdoctoral Researcher (Exposure Modeling)
-  email: qiao.zhu@emory.edu
-  number_educ: 1
-  education1: 2021-, Environmental Sciences
   education2:
   education3:
   education4:
