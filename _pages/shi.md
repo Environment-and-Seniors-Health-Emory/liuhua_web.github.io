@@ -62,6 +62,7 @@ Member, Climate@Emory<br/>
 <div class="col-sm-12 clearfix">
 
 #### SELECTED MEDIA COVERAGE:
+[https://sph.emory.edu/news/news-release/2021/11/air-pollution-alzheimers.html](https://sph.emory.edu/news/news-release/2021/11/air-pollution-alzheimers.html)
 
 [https://www.eurekalert.org/pub_releases/2020-10/htcs-slf101620.php](https://www.eurekalert.org/pub_releases/2020-10/htcs-slf101620.php)
 
