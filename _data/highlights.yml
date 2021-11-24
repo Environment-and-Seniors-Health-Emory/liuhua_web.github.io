@@ -23,6 +23,17 @@
   highlight: 1
   news2:
   first_or_cor: 0
+  
+- title: "Long-term exposure to air pollution may increase risk of Alzheimer’s, other neurological disorders"
+  image: highlight_NC.jpg
+  description: "This is the first nationwide analysis of the links between key criteria air pollutants—including fine particulate (PM2.5), nitrogen dioxide (NO2), and ozone (O3)—and neurodegeneration incidence in the United States Medicare population. Of the pollutants analyzed, exposures to PM2.5 and NO2 showed the greatest risk for incidence of dementia and Alzheimer’s disease (AD), with effects being the strongest for PM2.5. Exposure to O3 did not show an increase in incidence."
+  authors: Liuhua Shi, Kyle Steenland, Haomin Li, Pengfei Liu, Yuhan Zhang, Robert H. Lyles, Weeberb J. Requia, Sindana D. Ilango, Howard H. Chang, Thomas Wingo, Rodney J. Weber, Joel Schwartz
+  link:
+    url: https://www.nature.com/articles/s41467-021-27049-2.pdf
+    display: Nature Communications, 2021  
+  highlight: 1
+  news2:
+  first_or_cor: 0
 
 - title: "Temperature variability drives temperature-related changes in mortality"
   image: highlight3.JPG
@@ -34,19 +45,6 @@
   link:
     url: http://admin.indiaenvironmentportal.org.in/files/file/temperature%20and%20its%20variability.pdf
     display: Nature Climate Change, 2015 
-  highlight: 1
-  news2:
-  first_or_cor: 0
-
-- title: "Even low-level air Pollution may be linked with higher death rates"
-  image: highlight4.png
-  description: "This study is the first of its kind to restrict exposure and to explore the dose–response relationship between PM2.5 below the current U.S. EPA standards (12 μg/m3 of annual average PM2.5, 
-  35 μg/m3 daily) and mortality in a general population. We found that both short- and long-term PM2.5 exposure was significantly associated with higher death rates, even at low levels. Most of the country 
-  is either meeting the EPA standards now, or is expected to meet them in a few years as new power plant controls kick in."
-  authors: Liuhua Shi, Antonella Zanobetti, Itai Kloog, Brent Coull, Petros Koutrakis, Steven Melly, Joel Schwartz
-  link:
-    url: https://www.scienceopen.com/document_file/047eed47-3c90-408e-8665-8765f4e1ab00/PubMedCentral/047eed47-3c90-408e-8665-8765f4e1ab00.pdf
-    display: Environmental Health Perspectives, 2016
   highlight: 1
   news2:
   first_or_cor: 0
