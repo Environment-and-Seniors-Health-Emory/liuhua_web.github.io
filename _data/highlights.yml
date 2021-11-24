@@ -1,7 +1,7 @@
 ﻿- title: "Air pollution increases risks of first hospitalization with neurological conditions"
   image: highlight1.JPG
   description: "This is the first nationwide population-based cohort study on air pollution and neurodegeneration. 
-  We demonstrated that long-term PM2.5 exposures were significantly associated with an increased risk of first hospitalization with Parkinson’s disease, 
+  We demonstrated that long-term PM<sub>2.5</sub> exposures were significantly associated with an increased risk of first hospitalization with Parkinson’s disease, 
   and Alzheimer’s disease and related dementias. To accommodate massive datasets, we developed novel Cox-equivalent Poisson models to 
   perform a computationally scalable survival analysis."
   authors: "Liuhua Shi*, Xiao Wu*, Mahdieh Danesh Yazdi, Danielle Braun, Yara Abu Awad, Yaguang Wei, Pengfei Liu, Qian Di, Yun Wang, Joel Schwartz, Francesca Dominici, 
@@ -26,7 +26,7 @@
   
 - title: "Long-term exposure to air pollution may increase risk of Alzheimer’s, other neurological disorders"
   image: highlight5.png
-  description: "This is the first nationwide analysis of the links between key criteria air pollutants—including fine particulate (PM<sub>2.5</sub>), nitrogen dioxide (NO2), and ozone (O3)—and neurodegeneration incidence in the United States Medicare population. Of the pollutants analyzed, exposures to PM2.5 and NO2 showed the greatest risk for incidence of dementia and Alzheimer’s disease (AD), with effects being the strongest for PM2.5. Exposure to O3 did not show an increase in incidence."
+  description: "This is the first nationwide analysis of the links between key criteria air pollutants—including fine particulate (PM<sub>2.5</sub>), nitrogen dioxide (NO<sub>2</sub>), and ozone (O<sub>3</sub>)—and neurodegeneration incidence in the United States Medicare population. Of the pollutants analyzed, exposures to PM<sub>2.5</sub> and NO<sub>2</sub> showed the greatest risk for incidence of dementia and Alzheimer’s disease (AD), with effects being the strongest for PM<sub>2.5</sub>. Exposure to O<sub>3</sub> did not show an increase in incidence.This study suggests that air pollution might serve as a risk factor for dementia and Alzheimer’s disease."
   authors: Liuhua Shi, Kyle Steenland, Haomin Li, Pengfei Liu, Yuhan Zhang, Robert H. Lyles, Weeberb J. Requia, Sindana D. Ilango, Howard H. Chang, Thomas Wingo, Rodney J. Weber, Joel Schwartz
   link:
     url: https://www.nature.com/articles/s41467-021-27049-2.pdf
