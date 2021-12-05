@@ -27,7 +27,7 @@
 - name: "Qiao Zhu"
   photo: Qiao_Zhu.png
   group_member: 1
-  info: Postdoctoral Researcher (Exposure Modeling)
+  info: Postdoctoral Researcher 
   email: qiao.zhu@emory.edu
   number_educ: 1
   education1: 2021-, Environmental Sciences
@@ -79,7 +79,7 @@
 - name: "Tszshan Ma"
   photo: Tszshan_Ma.png
   group_member: 1
-  info: Doctoral Student (rotation)
+  info: Doctoral Student
   email: tsz.shan.ma@emory.edu
   number_educ: 1
   education1: 2020-, Environmental Health
