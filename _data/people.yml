@@ -102,6 +102,32 @@
   education5:
   statement:
   
+- name: "Brigitte Pfluger"
+  photo: brigitte.png
+  group_member: 1
+  info: Doctoral Student (rotation)
+  email: brigitte.pfluger@emory.edu
+  number_educ: 1
+  education1: 2019-, Nutrition and Health Sciences
+  education2: 
+  education3: 
+  education4:
+  education5:
+  statement:
+  
+- name: "Andrew Rosenberg"
+  photo: Andrew_Rosenberg.png
+  group_member: 1
+  info: Alumni
+  email: andrew.cory.rosenberg@emory.edu
+  number_educ: 1
+  education1: 2019-2021, Environmental Health
+  education2: 
+  education3: 
+  education4:
+  education5:
+  statement:
+  
 - name: "Yuhan Zhang"
   photo: Yuhan_Zhang.png
   group_member: 1
@@ -146,19 +172,6 @@
   group_member: 1
   info: Alumni
   email: mingrui.wang@emory.edu
-  number_educ: 1
-  education1: 2019-2021, Environmental Health
-  education2: 
-  education3: 
-  education4:
-  education5:
-  statement:
-  
-- name: "Andrew Rosenberg"
-  photo: Andrew_Rosenberg.png
-  group_member: 1
-  info: Alumni
-  email: andrew.cory.rosenberg@emory.edu
   number_educ: 1
   education1: 2019-2021, Environmental Health
   education2: 
