@@ -75,17 +75,6 @@
   news2:
   first_or_cor: 0
   
-- title: "Daily and Annual PM2.5 Concentrations for the Contiguous United States, 1-km Grids, v1.0 (2000 – 2016)"
-  image: dummy.png
-  description: ""
-  authors: Di, Q.; Wei, Y.; Shtein, A.; Hultquist, C.; Xing, X.; Amini, H.; <b>Shi, L.</b>; Kloog, I.; Silvern, R.; Kelly, J.; Sabath, M. B.; Choirat, C.; Koutrakis, P.; Lyapustin, A.; Wang, Y.; Mickley, L. J.; Schwartz, J.  
-  link:
-    url: https://beta.sedac.ciesin.columbia.edu/data/set/aqdh-pm2-5-concentrations-contiguous-us-1-km-2000-2016
-    display: NASA Socioeconomic Data and Applications Center (SEDAC), 2021
-  highlight: 0
-  news2:
-  first_or_cor: 0
-  
 - title: "Long-term exposure to PM2.5 major components and mortality in the southeastern United States"
   image: dummy.png
   description: ""
@@ -181,6 +170,28 @@
   link:
     url: https://www.sciencedirect.com/science/article/pii/S1470160X21010220
     display: Ecological Indicators, 2021
+  highlight: 0
+  news2:
+  first_or_cor: 0
+
+- title: "Daily and Annual PM2.5 Concentrations for the Contiguous United States, 1-km Grids, v1.0 (2000 – 2016)"
+  image: dummy.png
+  description: ""
+  authors: Di, Q.; Wei, Y.; Shtein, A.; Hultquist, C.; Xing, X.; Amini, H.; <b>Shi, L.</b>; Kloog, I.; Silvern, R.; Kelly, J.; Sabath, M. B.; Choirat, C.; Koutrakis, P.; Lyapustin, A.; Wang, Y.; Mickley, L. J.; Schwartz, J.  
+  link:
+    url: https://beta.sedac.ciesin.columbia.edu/data/set/aqdh-pm2-5-concentrations-contiguous-us-1-km-2000-2016
+    display: NASA Socioeconomic Data and Applications Center (SEDAC), 2021
+  highlight: 0
+  news2:
+  first_or_cor: 0
+  
+- title: "Daily 8-Hour Maximum and Annual O3 Concentrations for the Contiguous United States, 1-km Grids, v1 (2000 – 2016)"
+  image: dummy.png
+  description: ""
+  authors: Requia, W.; Wei, Y.; Shtein, A.; Hultquist, C.; Xing, X.; Di, Q.; Silvern, R.; Kelly, J.; Koutrakis, P.; Mickley, L. J.; Sulprizio, M.; Amini, H.; <b>Shi, L.</b>; Schwartz, J.  
+  link:
+    url: https://beta.sedac.ciesin.columbia.edu/data/set/aqdh-o3-concentrations-contiguous-us-1-km-2000-2016
+    display: NASA Socioeconomic Data and Applications Center (SEDAC), 2021
   highlight: 0
   news2:
   first_or_cor: 0
