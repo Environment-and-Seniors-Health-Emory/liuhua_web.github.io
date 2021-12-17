@@ -9,6 +9,28 @@
   news2:
   first_or_cor: 0  
   
+- title: "Low-Concentration Air Pollution and Mortality in American Older Adults: A National Cohort Analysis (20012017)"
+  image: dummy.png
+  description: ""
+  authors: <b>Shi, L.</b>; Rosenberg, A.; Wang, Y.; Liu, P.; Danesh Yazdi, M.; Requia, W.; Steenland, K.; Chang, H.; Sarnat, J.; Wang, W.; Zhang, K.; Zhao, J.; Schwartz, J.
+  link:
+    url: https://doi.org/10.1021/acs.est.1c03653
+    display: Environmental Science & Technology, 2021
+  highlight: 0
+  news2:
+  first_or_cor: 0 
+  
+- title: "Blowing hot and cold over asthma hospitalisations"
+  image: dummy.png
+  description: ""
+  authors:  <b>Shi, L.</b>
+  link:
+    url: http://thorax.bmj.com/cgi/content/full/thoraxjnl-2021-217178?ijkey=yElGDLQvWZCqaLR&keytype=ref
+    display: Thorax, 2021
+  highlight: 0
+  news2:
+  first_or_cor: 0  
+  
 - title: "The 2021 Report of The Lancet Countdown on Health and Climate Change: Code Red for a Healthy Future"
   image: dummy.png
   description: ""
@@ -23,7 +45,7 @@
 - title: "Long-term association of air pollution and hospital admissions among Medicare participants using a Doubly Robust Additive Model"
   image: dummy.png
   description: ""
-  authors: Yazdi, M.; Wang, Y.; Di, Q.; Wei, Y.; Requia, W.; <b>Shi, L.</b>; Sabath, M.; Dominici, F.; Coull, B.; Evans, J.; Koutrakis, P.; Schwartz, J.
+  authors: Danesh Yazdi, M.; Wang, Y.; Di, Q.; Wei, Y.; Requia, W.; <b>Shi, L.</b>; Sabath, M.; Dominici, F.; Coull, B.; Evans, J.; Koutrakis, P.; Schwartz, J.
   link:
     url: https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.120.050252
     display: Circulation, 2021
@@ -34,7 +56,7 @@
 - title: "Long-term effect of exposure to lower concentrations of air pollution on mortality among US Medicare participants and vulnerable subgroups: a doubly-robust approach"
   image: dummy.png
   description: ""
-  authors: Yazdi, M.; Wang, Y.; Di, Q.; Requia, W.; Wei, Y.; <b>Shi, L.</b>; Sabath, M.; Dominici, F.; Coull, B.; Evans, J.; Koutrakis, P.; Schwartz, J.
+  authors: Danesh Yazdi, M.; Wang, Y.; Di, Q.; Requia, W.; Wei, Y.; <b>Shi, L.</b>; Sabath, M.; Dominici, F.; Coull, B.; Evans, J.; Koutrakis, P.; Schwartz, J.
   link:
     url: https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(21)00204-7/fulltext
     display: The Lancet Planetary Health, 2021
@@ -42,17 +64,6 @@
   news2:
   first_or_cor: 0
 
-- title: "Blowing hot and cold over asthma hospitalisations"
-  image: dummy.png
-  description: ""
-  authors:  <b>Shi, L.</b>
-  link:
-    url: http://thorax.bmj.com/cgi/content/full/thoraxjnl-2021-217178?ijkey=yElGDLQvWZCqaLR&keytype=ref
-    display: Thorax, 2021
-  highlight: 0
-  news2:
-  first_or_cor: 0
-  
 - title: "Enhanced aerosol particle growth sustained by high continental chlorine emission in India"
   image: dummy.png
   description: ""
