@@ -74,6 +74,17 @@
   highlight: 0
   news2:
   first_or_cor: 0
+ 
+- title: "Long-Term Exposure to Low-Level NO2 and Mortality among the Elderly Population in the Southeastern United States"
+  image: dummy.png
+  description: ""
+  authors: Qian, Y.; Li, H.; Rosenberg, A.; Li, Q.; Sarnat, J.; Papatheodorou, S.; Schwartz, J.; Liang, D.; Liu, Y.; Liu, P.; <b>Shi, L.</b>
+  link:
+    url: https://doi.org/10.1289/EHP9044
+    display: Environmental Health Perspectives, 2021
+  highlight: 0
+  news2:
+  first_or_cor: 0 
   
 - title: "Long-term exposure to PM2.5 major components and mortality in the southeastern United States"
   image: dummy.png
