@@ -11,6 +11,7 @@ permalink: /Group Photos/
 </div>
 <div class="col-sm-10 clearfix">
 #### <b>Yifan Wang gave an oral presentation at the AGU Fall Meeting in New Orleans</b><br/>
+<div class="row">
 <div class="col-sm-6 clearfix">
 ![]({{ site.url }}{{ site.baseurl }}/images/Grouppic/Yifan_AGU_2021.jpg){: style="width: 95%; float: left; margin-top: 20px"}
 </div>
