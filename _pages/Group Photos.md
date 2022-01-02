@@ -3,7 +3,7 @@ title: "Group Photos"
 layout: textlay
 excerpt: "Group Photos"
 sitemap: false
-permalink: /Group Photos/
+permalink: /group_photos/
 ---
 <div class="row">
 <div class="col-sm-1 clearfix">
