@@ -17,7 +17,7 @@ permalink: /courses/
 <div class="col-sm-10 clearfix">
 
 ##### Data Analysis in Environmental Health (2020-, spring, instructor)<br/>
-##### Environmental and Occupational Epidemiology (2022-, spring, instructor)<br/>
+##### Environmental and Occupational Epidemiology (2022-, spring, co-instructor)<br/>
 ##### R-based Quantitative Data Analysis (2021-, spring, co-instructor)<br/>
 ##### Air Quality in the Urban Environment (2020-2021, spring, co-instructor)<br/>
 ##### Introduction to Satellite Remote Sensing (2020-2021, spring, co-instructor) <br/>
