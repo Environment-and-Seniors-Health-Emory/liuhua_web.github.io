@@ -15,7 +15,8 @@ permalink: /Group Photos/
 </div>
 <div class="row">
 <div class="col-sm-6 clearfix">
-![]({{ site.url }}{{ site.baseurl }}/images/Grouppic/house warming_2022.jpg){: style="width: 100%; float: left; margin-top: 20px"}
+![]({{ site.url }}{{ site.baseurl }}/images/Grouppic/house warming_2022.jpg){: style="width: 100%; float: center; margin-top: 20px"}
+#### L to R: Dr. Qiao Zhu, Haomin Li, Yifan Wang, Xianzhi Ye, Dr. Pengfei Liu, Qiyao Liu, Dr. Liuhua Shi, Haisu Zhang<br/>
 </div>
 </div>
 
