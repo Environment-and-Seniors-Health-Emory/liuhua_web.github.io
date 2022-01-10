@@ -15,7 +15,7 @@ permalink: /Group Photos/
 </div>
 <div class="row">
 <div class="col-sm-6 clearfix">
-![]({{ site.url }}{{ site.baseurl }}/images/Grouppic/house warming_2022.jpg){: style="width: 95%; float: left; margin-top: 20px"}
+![]({{ site.url }}{{ site.baseurl }}/images/Grouppic/house warming_2022.jpg){: style="width: 100%; float: left; margin-top: 20px"}
 </div>
 </div>
 
