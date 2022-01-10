@@ -7,6 +7,20 @@ permalink: /Group Photos/
 ---
 <div class="row">
 <div class="col-sm-1 clearfix">
+#### <b>01/2022</b>     
+</div>
+<div class="col-sm-10 clearfix">
+#### <b>House Warming Party for Postdoc Qiao</b><br/>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-6 clearfix">
+![]({{ site.url }}{{ site.baseurl }}/images/Grouppic/house warming_2022.jpg){: style="width: 95%; float: left; margin-top: 20px"}
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-1 clearfix">
 #### <b>12/2021</b>     
 </div>
 <div class="col-sm-10 clearfix">
