@@ -10,7 +10,7 @@ permalink: /Group Photos/
 #### <b>01/2022</b>     
 </div>
 <div class="col-sm-10 clearfix">
-#### <b>House Warming Party for Postdoc Qiao</b><br/>
+#### <b>House Warming Party for Postdoc</b><br/>
 </div>
 </div>
 <div class="row">
