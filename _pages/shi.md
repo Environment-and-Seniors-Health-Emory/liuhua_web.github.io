@@ -18,7 +18,6 @@ Rollins School of Public Health, Emory University<br/>
 1518 Clifton Road, Atlanta, Georgia 30322<br/>
 Email: liuhua.shi(at)emory.edu<br/>
 Office: RM 2036<br/>
-Resume: [Liuhua_Shi_CV_2021_December.pdf](https://apps.sph.emory.edu/RSPHPeople/files/resumes/Liuhua_Shi_CV%20-%202021%20-%20December.pdf)
 </div>
 </div>
 
