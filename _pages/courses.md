@@ -29,4 +29,9 @@ permalink: /courses/
 ![]({{ site.url }}{{ site.baseurl }}/images/group_photo.jpeg){: style="width: 95%; float: left; margin-top: 20px"}
 </div>
 </div>
+<div class="col">
+<div class="col-sm-6 clearfix">
+![]({{ site.url }}{{ site.baseurl }}/images/EH593R.jpg){: style="width: 95%; float: left; margin-top: 20px"}
+</div>
+</div>
 <p></p>
