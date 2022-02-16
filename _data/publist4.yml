@@ -20,3 +20,13 @@
   news2:
   first_or_cor: 0  
 
+- title: "Long-term effects of PM2.5 components on blood pressure and hypertension in Chinese children and adolescents"
+  image: dummy.png
+  description: ""
+  authors: Li, J.; Dong, Y.; Song, Y.; Dong, B.; van Donkelaar, A.; Martin, R.; <b>Shi, L.</b>; Ma, Y.; Zou, Z.; Ma, J.
+  link:
+    url: https://doi.org/10.1016/j.envint.2022.107134
+    display: Environment International, 2022
+  highlight: 0
+  news2:
+  first_or_cor: 0 
