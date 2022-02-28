@@ -37,6 +37,19 @@
   education5:
   statement:
   
+- name: "Hua Hao"
+  photo: Hua_Hao.jpg
+  group_member: 1
+  info: Postdoctoral Researcher 
+  email: hua.hao@emory.edu
+  number_educ: 1
+  education1: 2022-, Epidemiology
+  education2:
+  education3:
+  education4:
+  education5:
+  statement:
+  
 - name: "Yifan Wang"
   photo: Yifan_Wang.png
   group_member: 1
@@ -96,19 +109,6 @@
   email: wenhao.wang@emory.edu
   number_educ: 1
   education1: 2020-, Environmental Health
-  education2: 
-  education3: 
-  education4:
-  education5:
-  statement:
-  
-- name: "Brigitte Pfluger"
-  photo: brigitte.png
-  group_member: 1
-  info: Doctoral Student (rotation)
-  email: brigitte.pfluger@emory.edu
-  number_educ: 1
-  education1: 2019-, Nutrition and Health Sciences
   education2: 
   education3: 
   education4:
