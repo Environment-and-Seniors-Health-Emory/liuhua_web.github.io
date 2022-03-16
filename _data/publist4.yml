@@ -30,3 +30,14 @@
   highlight: 0
   news2:
   first_or_cor: 0 
+
+- title: "Daily and Annual NO2 Concentrations for the Contiguous United States, 1-km Grids, v1.0 (2000 – 2016)"
+  image: dummy.png
+  description: ""
+  authors: Di, Q.; Wei, Y.; Shtein, A.; Hultquist, C.; Xing, X.; Amini, H.; <b>Shi, L.</b>; Kloog, I.; Silvern, R.; Kelly, J.; Sabath, M. B.; Choirat, C.; Koutrakis, P.; Lyapustin, A.; Wang, Y.; Mickley, L.; Schwartz, J.  
+  link:
+    url: https://beta.sedac.ciesin.columbia.edu/data/set/aqdh-no2-concentrations-contiguous-us-1-km-2000-2016
+    display: NASA Socioeconomic Data and Applications Center (SEDAC), 2022
+  highlight: 0
+  news2:
+  first_or_cor: 0
