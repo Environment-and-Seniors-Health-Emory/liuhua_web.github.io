@@ -1,3 +1,14 @@
+- title: "Global Emissions of Hydrogen Chloride and Particulate Chloride from Continental Sources"
+  image: dummy.png
+  description: ""
+  authors: Zhang, B.; Shen, H.; Yun, X.; Zhong, Q.; Henderson, B.; Wang, X.; <b>Shi, L.</b>; Gunthe, S.; Huey, L.; Tao, S.; Russell, A.G.; Liu, P.
+  link:
+    url: 
+    display: Environmental Science & Technology, 2022
+  highlight: 0
+  news2:
+  first_or_cor: 0 
+  
 - title: "Long-term effects of PM2.5 components on incident dementia in the Northeastern United States"
   image: dummy.png
   description: ""
@@ -7,7 +18,7 @@
     display: The Innovation, 2022
   highlight: 0
   news2:
-  first_or_cor: 0 
+  first_or_cor: 0
   
 - title: "Long-term ozone exposure and cognitive impairment among Chinese older adults: A cohort study"
   image: dummy.png
