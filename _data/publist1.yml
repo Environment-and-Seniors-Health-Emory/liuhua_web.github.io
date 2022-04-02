@@ -86,17 +86,6 @@
   news2:
   first_or_cor: 0 
   
-- title: "Long-term exposure to PM2.5 major components and mortality in the southeastern United States"
-  image: dummy.png
-  description: ""
-  authors: Wang, Y.; Xiao, S.; Zhang, Y.; Chang, H.; Martin, R.V.; Van Donkelaar, A.; Gaskins, A.; Liu, Y.; Liu, P.; <b>Shi, L.</b>
-  link:
-    url: https://www.sciencedirect.com/science/article/pii/S0160412021005948
-    display: Environment International, 2021
-  highlight: 0
-  news2:
-  first_or_cor: 0
-  
 - title: "Estimation of ambient PM2.5 in Iraq and Kuwait from 2001 to 2018 using machine learning and remote sensing"
   image: dummy.png
   description: ""
@@ -148,17 +137,6 @@
   link:
     url: https://doi.org/10.1016/j.envres.2021.111766
     display: Environmental Research, 2021
-  highlight: 0
-  news2:
-  first_or_cor: 0
-  
-- title: "Health effects of air pollutant mixtures on overall mortality among the elderly population using Bayesian Kernel machine regression (BKMR)"
-  image: dummg.png
-  description: ""
-  authors: Li, H.; Deng, W.; Small, R.; Schwartz, J.; Liu, J.; <b>Shi, L.</b>
-  link:
-    url: https://www.sciencedirect.com/science/article/abs/pii/S0045653521020385
-    display: Chemosphere, 2021
   highlight: 0
   news2:
   first_or_cor: 0
