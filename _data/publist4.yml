@@ -63,7 +63,18 @@
   highlight: 0
   news2:
   first_or_cor: 0
-  
+ 
+ - title: "Tracking the impacts of climate change on human health via indicators: lessons from the Lancet Countdown"
+  image: dummg.png
+  description: ""
+  authors: Di Napoli, C; McGushin, A; Romanello, M; Ayeb-Karlsson, S; Cai, W; Chambers, J; Dasgupta, S; Escobar, L; Kelman, I; Kjellstrom, T; Kniveton, D; Liu, Y; Liu, Z; Lowe, R; Martinez-Urtaza, J; McMichael, C; Moradi-Lakeh, M; Murray, K; Rabbaniha, M; Semenza, J; <b>Shi, L.</b>; Tabatabaei, M; Trinanes, J; Vu, B; Brimicombe, C; Robinson, E
+  link:
+    url: https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-022-13055-6
+    display: BMC Public Health, 2022
+  highlight: 0
+  news2:
+  first_or_cor: 0
+ 
 - title: "Daily and Annual NO2 Concentrations for the Contiguous United States, 1-km Grids, v1.0 (2000 – 2016)"
   image: dummy.png
   description: ""
