@@ -9,6 +9,17 @@
   news2:
   first_or_cor: 0 
   
+- title: "Long-term air pollution exposure and incident stroke in American older adults: A national cohort study"
+  image: dummy.png
+  description: ""
+  authors: Ma, T.; Danesh Yazdi, M.; Schwartz, J.; Requia, W.; Di, Q.; Wei, Y.; Chang, H.H.; Vaccarino, V.; Liu, P.; <b>Shi, L.</b>
+  link:
+    url: https://doi.org/10.1016/j.gloepi.2022.100073
+    display: Global Epidemiology, 2022
+  highlight: 0
+  news2:
+  first_or_cor: 0
+
 - title: "Long-term effects of PM2.5 components on incident dementia in the Northeastern United States"
   image: dummy.png
   description: ""
