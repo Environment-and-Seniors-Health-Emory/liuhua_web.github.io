@@ -10,12 +10,12 @@ permalink: /Group Photos/
 #### <b>04/2022</b>     
 </div>
 <div class="col-sm-10 clearfix">
-#### <b>Yifan Wang gave a poster presentation at the SERG conference in Portland, OR with travel award</b><br/>
+#### <b>Yifan gave a poster presentation at the SERG conference in Portland, OR with travel award</b><br/>
 </div>
 </div>
 <div class="row">
 <div class="col-sm-6 clearfix">
-![]({{ site.url }}{{ site.baseurl }}/images/Grouppic/Yifan_SERG.jpg){: style="width: 100%; float: left; margin-top: 20px"}
+![]({{ site.url }}{{ site.baseurl }}/images/Grouppic/Yifan_SERG.jpeg){: style="width: 100%; float: left; margin-top: 20px"}
 </div>
 </div>
 
