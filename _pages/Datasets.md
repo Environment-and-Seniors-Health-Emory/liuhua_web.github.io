@@ -9,23 +9,14 @@ permalink: /Datasets/
 <p></p>
 
 <div class="col-sm-12 clearfix">
-####  Air Quality Data for Health-Related Applications<br/>
-####  PM<sub>2.5</sub> Data
+###  <b>Air Quality Data for Health-Related Applications</b> <br/>
+####  <b>PM2.5 Data </b> <br/>
+<b>Description:</b> Daily and Annual PM<sub>2.5</sub> Concentrations for the Contiguous United States, 1-km Grids, v1 (2000 – 2016) <br/>
+<b>Download:</b> [Data Download](https://beta.sedac.ciesin.columbia.edu/data/set/aqdh-pm2-5-concentrations-contiguous-us-1-km-2000-2016/data-download)  <br/>
+<b>Reference:</b> [Di et al., 2021] (https://www.sciencedirect.com/science/article/pii/S0160412019300650?via%3Dihub)
 
-{% for dataset in site.data.Datasets %}
-
-{% if dataset.first_or_cor == 1 %}
-  <b>{{ dataset.title }}</b><br />
-  <em>{{ dataset.discription }} </em><br /><a href="{{ dataset.link.url }}">{{ dataset.link.display }}</a>
-{% endif %}
-
-{% if dataset.first_or_cor == 0 %}
-  {{ dataset.title }} <br />
-  <em>{{ dataset.discription }} </em><br /><a href="{{ dataset.link.url }}">{{ dataset.link.display }}</a>
-{% endif %}
-
-{% endfor %}
-</div>
-<div class="col-sm-12 clearfix">
-#### Ozone Data
+#### <b>Ozone Data</b> <br/>
+<b>Description:</b> Daily 8-Hour Maximum and Annual O<sub>3</sub> Concentrations for the Contiguous United States, 1-km Grids, v1 (2000 – 2016) <br/>
+<b>Download:</b> [Data Download](https://beta.sedac.ciesin.columbia.edu/data/set/aqdh-o3-concentrations-contiguous-us-1-km-2000-2016/data-download)  <br/>
+<b>Reference:</b> [Requia et al., 2021] (https://pubs.acs.org/doi/10.1021/acs.est.0c01791)
 
