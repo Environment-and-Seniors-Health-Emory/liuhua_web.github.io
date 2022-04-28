@@ -1,0 +1,11 @@
+- title: <b>Description:<b> Daily and Annual PM<sub>2.5</sub> Concentrations for the Contiguous United States, 1-km Grids, v1 (2000 – 2016)
+  description: <b>Download:<b>[https://beta.sedac.ciesin.columbia.edu/data/set/aqdh-pm2-5-concentrations-contiguous-us-1-km-2000-2016/data-download](https://beta.sedac.ciesin.columbia.edu/data/set/aqdh-pm2-5-concentrations-contiguous-us-1-km-2000-2016/data-download)
+  link:
+    url: https://beta.sedac.ciesin.columbia.edu/data/set/aqdh-pm2-5-concentrations-contiguous-us-1-km-2000-2016/data-download
+    display: Download Dataset
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0160412019300650?via%3Dihub
+    display: Di et al.,2021
+  highlight: 0
+  news2:
+  first_or_cor: 0  
