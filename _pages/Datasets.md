@@ -6,15 +6,21 @@ sitemap: false
 permalink: /Datasets/
 ---
 
+<p></p>
+
 <div class="col-sm-12 clearfix">
-###  <b>Air Quality Data for Health-Related Applications</b> <br/>
+####  <b>Air Quality Data for Health-Related Applications</b> <br/>
 ####  <b>PM2.5 Data </b> <br/>
 <b>Description:</b> Daily and Annual PM<sub>2.5</sub> Concentrations for the Contiguous United States, 1-km Grids, v1 (2000 – 2016) <br/>
-<b>Download:</b> [Data Download](https://beta.sedac.ciesin.columbia.edu/data/set/aqdh-pm2-5-concentrations-contiguous-us-1-km-2000-2016/data-download)  <br/>
+<b>Download:</b> [NASA Socioeconomic Data and Applications Center (SEDAC)](https://beta.sedac.ciesin.columbia.edu/data/set/aqdh-pm2-5-concentrations-contiguous-us-1-km-2000-2016/data-download)  <br/>
 <b>Reference:</b> [Di et al., 2021](https://www.sciencedirect.com/science/article/pii/S0160412019300650?via%3Dihub)
 
 #### <b>Ozone Data</b> <br/>
 <b>Description:</b> Daily 8-Hour Maximum and Annual O<sub>3</sub> Concentrations for the Contiguous United States, 1-km Grids, v1 (2000 – 2016) <br/>
-<b>Download:</b> [Data Download](https://beta.sedac.ciesin.columbia.edu/data/set/aqdh-o3-concentrations-contiguous-us-1-km-2000-2016/data-download)  <br/>
+<b>Download:</b> [NASA Socioeconomic Data and Applications Center (SEDAC)](https://beta.sedac.ciesin.columbia.edu/data/set/aqdh-o3-concentrations-contiguous-us-1-km-2000-2016/data-download)  <br/>
 <b>Reference:</b> [Requia et al., 2021](https://pubs.acs.org/doi/10.1021/acs.est.0c01791)
 
+#### <b>NO2 Data</b> <br/>
+<b>Description:</b> Daily and Annual NO<sub>2</sub> Concentrations for the Contiguous United States, 1-km Grids, v1 (2000 – 2016) <br/>
+<b>Download:</b> NASA Socioeconomic Data and Applications Center (SEDAC)](https://beta.sedac.ciesin.columbia.edu/data/set/aqdh-no2-concentrations-contiguous-us-1-km-2000-2016/data-download)  <br/>
+<b>Reference:</b> [Di et al., 2019](https://pubs.acs.org/doi/10.1021/acs.est.9b03358)
