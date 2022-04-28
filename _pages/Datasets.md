@@ -6,8 +6,6 @@ sitemap: false
 permalink: /Datasets/
 ---
 
-<p></p>
-
 <div class="col-sm-12 clearfix">
 ###  <b>Air Quality Data for Health-Related Applications</b> <br/>
 ####  <b>PM2.5 Data </b> <br/>
