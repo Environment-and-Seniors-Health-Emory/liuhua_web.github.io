@@ -22,5 +22,5 @@ permalink: /Datasets/
 
 #### <b>NO2 Data</b> <br/>
 <b>Description:</b> Daily and Annual NO<sub>2</sub> Concentrations for the Contiguous United States, 1-km Grids, v1 (2000 – 2016) <br/>
-<b>Download:</b> NASA Socioeconomic Data and Applications Center (SEDAC)](https://beta.sedac.ciesin.columbia.edu/data/set/aqdh-no2-concentrations-contiguous-us-1-km-2000-2016/data-download)  <br/>
+<b>Download:</b> [NASA Socioeconomic Data and Applications Center (SEDAC)](https://beta.sedac.ciesin.columbia.edu/data/set/aqdh-no2-concentrations-contiguous-us-1-km-2000-2016/data-download)  <br/>
 <b>Reference:</b> [Di et al., 2019](https://pubs.acs.org/doi/10.1021/acs.est.9b03358)
