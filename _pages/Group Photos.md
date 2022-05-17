@@ -7,6 +7,20 @@ permalink: /Group Photos/
 ---
 <div class="row">
 <div class="col-sm-1 clearfix">
+#### <b>05/2022</b>     
+</div>
+<div class="col-sm-10 clearfix">
+#### <b>Rollins School GDEH Faculty Retreat</b><br/>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-6 clearfix">
+![]({{ site.url }}{{ site.baseurl }}/images/Grouppic/GDEH faculty at retreat.jpg){: style="width: 100%; float: left; margin-top: 20px"}
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-1 clearfix">
 #### <b>04/2022</b>     
 </div>
 <div class="col-sm-10 clearfix">
