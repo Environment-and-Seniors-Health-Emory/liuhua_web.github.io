@@ -10,6 +10,20 @@ permalink: /Group Photos/
 #### <b>05/2022</b>     
 </div>
 <div class="col-sm-10 clearfix">
+#### <b>Shi group attended the New York City Epidemiology Forum 8th Annual Conference</b><br/>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-6 clearfix">
+![]({{ site.url }}{{ site.baseurl }}/images/Grouppic/NYCEF.jpg){: style="width: 100%; float: left; margin-top: 20px"}
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-1 clearfix">
+#### <b>05/2022</b>     
+</div>
+<div class="col-sm-10 clearfix">
 #### <b>Rollins School GDEH Faculty Retreat</b><br/>
 </div>
 </div>
