@@ -85,6 +85,17 @@
   highlight: 0
   news2:
   first_or_cor: 0
+  
+- title: "The association between polymorphisms in cell-cycle genes and mitochondrial DNA copy number in coke oven workers"
+  image: dummg.png
+  description: ""
+  authors: Wang, Y; Tan, J; Wang, W; Duan, X; Lappe, B; <b>Shi, L.</b>; Yang, Y; Shi, X
+  link:
+    url: 
+    display: Frontiers in Public Health, 2022
+  highlight: 0
+  news2:
+  first_or_cor: 0
  
 - title: "Short-Term Associations between Ambient Temperature and Emergency Department Visits for Alzheimer's Disease and Related Dementia in Five Us States"
   image: dummg.png
