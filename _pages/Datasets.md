@@ -25,7 +25,7 @@ permalink: /Datasets/
 <b>Download:</b> [NASA Socioeconomic Data and Applications Center (SEDAC), 2021](https://beta.sedac.ciesin.columbia.edu/data/set/aqdh-no2-concentrations-contiguous-us-1-km-2000-2016/data-download)  <br/>
 <b>Reference:</b> [Di et al., 2019](https://pubs.acs.org/doi/10.1021/acs.est.9b03358)
   
-#### <b>High-resolution PM<sub>2.5</sub> Major components Estimates in the U.S.</b> <br/>
+#### <b>High-resolution PM<sub>2.5</sub> Major Components Estimates in the U.S.</b> <br/>
 <b>Description:</b> Annual PM<sub>2.5</sub> Major Components Concentrations for the Contiguous United States, 50-m Grids in Urban Areas and 1-km Grids in Rural Areas, v1 (2000 – 2019) <br/>
 <b>Download:</b> [TBD]()  <br/>
 <b>Reference:</b> [Amini et al., 2022](https://www.researchsquare.com/article/rs-1745433/v1)
