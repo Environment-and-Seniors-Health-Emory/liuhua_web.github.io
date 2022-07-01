@@ -10,7 +10,7 @@ permalink: /Group Photos/
 #### <b>06/2022</b>     
 </div>
 <div class="col-sm-10 clearfix">
-#### <b>Shi group attended the HEI annual conference</b><br/>
+#### <b>Shi group attended the Health Effects Institute (HEI) annual conference</b><br/>
 </div>
 </div>
 <div class="row">
