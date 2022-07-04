@@ -15,9 +15,9 @@ permalink: /Group Photos/
 </div>
 <div class="row">
 <div class="col-sm-6 clearfix">
-###### Dr. Shi was invited as a speaker
+##### <b>Dr. Shi was invited as a speaker</b>
 ![]({{ site.url }}{{ site.baseurl }}/images/Grouppic/HEI_1.jpg){: style="width: 120%; float: left; margin-top: 20px"}
-###### Yifan Wang received the 2022 Jane Warren Trainee Award
+##### <b>Yifan Wang received the 2022 Jane Warren Trainee Award</b>
 ![]({{ site.url }}{{ site.baseurl }}/images/Grouppic/HEI_2.jpg){: style="width: 80%; float: left; margin-top: 20px"}
 </div>
 </div>
