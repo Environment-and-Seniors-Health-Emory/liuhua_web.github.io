@@ -32,7 +32,7 @@ permalink: /Group Photos/
 </div>
 <div class="row">
 <div class="col-sm-6 clearfix">
-![]({{ site.url }}{{ site.baseurl }}/images/Grouppic/NYCEF.jpg){: style="width: 100%; float: left; margin-top: 20px"}
+![]({{ site.url }}{{ site.baseurl }}/images/Grouppic/NYCEF.jpg){: style="width: 120%; float: left; margin-top: 20px"}
 </div>
 </div>
 
@@ -46,7 +46,7 @@ permalink: /Group Photos/
 </div>
 <div class="row">
 <div class="col-sm-6 clearfix">
-![]({{ site.url }}{{ site.baseurl }}/images/Grouppic/GDEH faculty at retreat.jpg){: style="width: 100%; float: left; margin-top: 20px"}
+![]({{ site.url }}{{ site.baseurl }}/images/Grouppic/GDEH faculty at retreat.jpg){: style="width: 120%; float: left; margin-top: 20px"}
 </div>
 </div>
 
@@ -60,7 +60,7 @@ permalink: /Group Photos/
 </div>
 <div class="row">
 <div class="col-sm-6 clearfix">
-![]({{ site.url }}{{ site.baseurl }}/images/Grouppic/Yifan_SERG.jpeg){: style="width: 100%; float: left; margin-top: 20px"}
+![]({{ site.url }}{{ site.baseurl }}/images/Grouppic/Yifan_SERG.jpeg){: style="width: 120%; float: left; margin-top: 20px"}
 </div>
 </div>
 
@@ -74,7 +74,7 @@ permalink: /Group Photos/
 </div>
 <div class="row">
 <div class="col-sm-6 clearfix">
-![]({{ site.url }}{{ site.baseurl }}/images/Grouppic/house warming_2022.jpg){: style="width: 100%; float: left; margin-top: 20px"}
+![]({{ site.url }}{{ site.baseurl }}/images/Grouppic/house warming_2022.jpg){: style="width: 120%; float: left; margin-top: 20px"}
 </div>
 </div>
 
@@ -88,7 +88,7 @@ permalink: /Group Photos/
 </div>
 <div class="row">
 <div class="col-sm-6 clearfix">
-![]({{ site.url }}{{ site.baseurl }}/images/Grouppic/Yifan_AGU_2021.jpg){: style="width: 100%; float: left; margin-top: 20px"}
+![]({{ site.url }}{{ site.baseurl }}/images/Grouppic/Yifan_AGU_2021.jpg){: style="width: 120%; float: left; margin-top: 20px"}
 </div>
 </div>
 
@@ -102,7 +102,7 @@ permalink: /Group Photos/
 </div>
 <div class="row">
 <div class="col-sm-6 clearfix">
-![]({{ site.url }}{{ site.baseurl }}/images/Grouppic/group_hiking_2021.jpg){: style="width: 100%; float: left; margin-top: 20px"}
+![]({{ site.url }}{{ site.baseurl }}/images/Grouppic/group_hiking_2021.jpg){: style="width: 120%; float: left; margin-top: 20px"}
 </div>
 </div>
 
@@ -116,7 +116,7 @@ permalink: /Group Photos/
 </div>
 <div class="row">
 <div class="col-sm-6 clearfix">
-![]({{ site.url }}{{ site.baseurl }}/images/Grouppic/Tszshan_ISEE_2021.jpg){: style="width: 100%; float: left; margin-top: 20px"}
+![]({{ site.url }}{{ site.baseurl }}/images/Grouppic/Tszshan_ISEE_2021.jpg){: style="width: 120%; float: left; margin-top: 20px"}
 </div>
 </div>
 
@@ -130,7 +130,7 @@ permalink: /Group Photos/
 </div>
 <div class="row">
 <div class="col-sm-6 clearfix">
-![]({{ site.url }}{{ site.baseurl }}/images/Grouppic/graduate send-off_2021.jpg){: style="width: 100%; float: left; margin-top: 20px"}
+![]({{ site.url }}{{ site.baseurl }}/images/Grouppic/graduate send-off_2021.jpg){: style="width: 120%; float: left; margin-top: 20px"}
 </div>
 </div>
 
@@ -144,7 +144,7 @@ permalink: /Group Photos/
 </div>
 <div class="row">
 <div class="col-sm-6 clearfix">
-![]({{ site.url }}{{ site.baseurl }}/images/Grouppic/Thanksgiving_2020.jpg){: style="width: 100%; float: left; margin-top: 20px"}
+![]({{ site.url }}{{ site.baseurl }}/images/Grouppic/Thanksgiving_2020.jpg){: style="width: 120%; float: left; margin-top: 20px"}
 </div>
 </div>
 <p></p>
