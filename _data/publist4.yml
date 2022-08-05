@@ -151,3 +151,14 @@
   highlight: 0
   news2:
   first_or_cor: 0
+  
+- title: "Annual Mean PM2.5 Components (EC, NH4, NO3, OC, SO4) 50m Urban and 1km Non-Urban Area Grids for Contiguous U.S., 2000-2019, v1"
+  image: dummy.png
+  description: ""
+  authors: Amini, H.; Danesh-Yazdi, M.; Di, Q.; Requia, W.; Wei, Y.; Abu-Awad, Y.; <b>Shi, L.</b>; Franklin, M.; Kang, C.; Wolfson, J.; James, P.; Habre, R.; Zhu, Q.; Apte, J.; Andersen, Z.; Kloog, I.; Dominici, F.; Koutrakis, P.; Schwartz, J.   
+  link:
+    url: https://www.ciesin.columbia.edu/data/aqdh/pm25component-EC-NH4-NO3-OC-SO4-2000-2019/
+    display: NASA Socioeconomic Data and Applications Center (SEDAC), 2022
+  highlight: 0
+  news2:
+  first_or_cor: 0
