@@ -130,6 +130,17 @@
   news2:
   first_or_cor: 0
   
+- title: "Air Pollution, Climate Conditions and Risk of Psychotic Hospitalization in U.S. Residents"
+  image: dummg.png
+  description: ""
+  authors: Qiu, X.; Wei, Y.; Weisskopf, M.; Spiro, A.; <b>Shi, L.</b>; Castro, E.; Coull, B.; Koutrakis, P.; Schwartz, J.
+  link:
+    url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4182413
+    display: SSRN 4182413 (Preprint)
+  highlight: 0
+  news2:
+  first_or_cor: 0
+  
 - title: "Hyperlocal super-learned PM2.5 components across the contiguous US"
   image: dummy.png
   description: ""
