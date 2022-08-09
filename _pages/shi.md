@@ -49,7 +49,7 @@ Alzheimer's disease and related dementia<br/>
 
 #### <b>AFFILIATIONS & ACTIVITIES</b>
 
-Member, Lancet Countdown project (2020)<br/>
+Member, Lancet Countdown project <br/>
 Member, HERCULES Exposome Research Center<br/>
 Member, Goizueta Alzheimer’s Disease Research Center (ADRC) <br/>
 Member, Climate@Emory<br/>
