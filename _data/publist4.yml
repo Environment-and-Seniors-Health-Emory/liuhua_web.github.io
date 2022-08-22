@@ -184,3 +184,14 @@
   highlight: 0
   news2:
   first_or_cor: 0
+
+- title: "Annual Mean PM2.5 Trace Elements 50m Grids in Urban Areas and 1km Grids in Non-Urban Areas for Contiguous U.S., 2000-2019, v1"
+  image: dummy.png
+  description: ""
+  authors: Amini, H.; Danesh-Yazdi, M.; Di, Q.; Requia, W.; Wei, Y.; Abu-Awad, Y.; <b>Shi, L.</b>; Franklin, M.; Kang, C.; Wolfson, J.; James, P.; Habre, R.; Zhu, Q.; Apte, J.; Andersen, Z.; Kloog, I.; Dominici, F.; Koutrakis, P.; Schwartz, J.   
+  link:
+    url: https://www.ciesin.columbia.edu/data/aqdh/pm25component-trace-elements-2000-2019/
+    display: NASA Socioeconomic Data and Applications Center (SEDAC), 2022
+  highlight: 0
+  news2:
+  first_or_cor: 0
