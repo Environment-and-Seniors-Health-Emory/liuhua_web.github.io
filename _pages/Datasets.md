@@ -33,4 +33,4 @@ permalink: /Datasets/
 #### <b>High-resolution PM<sub>2.5</sub> Trace Metals Estimates in the U.S.</b> <br/>
 <b>Description:</b> Annual PM<sub>2.5</sub> Trace Elements (bromine (Br), calcium (Ca), copper (Cu), iron (Fe), potassium (K), nickel (Ni), lead (Pb), silicon (Si), vanadium (V), and zinc (Zn)) Concentrations for the Contiguous United States, 50-m Grids in Urban Areas and 1-km Grids in Rural Areas, v1 (2000 – 2019) <br/>
 <b>Download:</b> [NASA Socioeconomic Data and Applications Center (SEDAC), 2022](https://www.ciesin.columbia.edu/data/aqdh/pm25component-trace-elements-2000-2019/)  <br/>
-<b>Reference:</b> [Amini et al., 2022]()
+<b>Reference:</b> [Amini et al., 2022](https://doi.org/10.21203/rs.3.rs-2052258/v1)
