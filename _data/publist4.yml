@@ -152,6 +152,17 @@
   news2:
   first_or_cor: 0
   
+- title: "Hyperlocal US PM2.5 Trace Elements Super-learned"
+  image: dummy.png
+  description: ""
+  authors: Amini, H.; Danesh-Yazdi, M.; Di, Q.; Requia, W.; Wei, Y.; Abu-Awad, Y.; <b>Shi, L.</b>; Franklin, M.; Kang, C.; Wolfson, J.; James, P.; Habre, R.; Zhu, Q.; Apte, J.; Andersen, Z.; Xing, X.; Hultquist, C.; Kloog, I.; Dominici, F.; Koutrakis, P.; Schwartz, J.  
+  link:
+    url: https://www.researchsquare.com/article/rs-2052258/v1
+    display: Research Square (Preprint)
+  highlight: 0
+  news2:
+  first_or_cor: 0
+  
 - title: "Rapid growth and high cloud forming potential of anthropogenic sulfate aerosol during the Covid lockdown in India: Changes in the production and properties of cloud condensation nuclei (CCN) during heavily polluted compared to relatively cleaner conditions"
   image: dummy.png
   description: ""
