@@ -86,6 +86,17 @@
   news2:
   first_or_cor: 0
  
+- title: "Associations between long-term exposures to airborne PM2.5 components and mortality in Massachusetts: mixture analysis exploration"
+  image: dummg.png
+  description: ""
+  authors: Jin, T.; Amini, H.; Kosheleva, A.; Danesh Yazdi, M.; Wei, Y.; Castro, E.; Di, Q.; <b>Shi, L.</b>; Schwartz, J.;
+  link:
+    url: https://ehjournal.biomedcentral.com/articles/10.1186/s12940-022-00907-2
+    display: Environmental Health, 2022
+  highlight: 0
+  news2:
+  first_or_cor: 0
+  
 - title: "The effect of long-term exposure to air pollution and seasonal temperature on hospital admissions with cardiovascular and respiratory disease in the United States: A difference-in-differences analysis"
   image: dummg.png
   description: ""
