@@ -41,6 +41,17 @@
   highlight: 0
   news2:
   first_or_cor: 0
+  
+- title: "Associations between long-term air pollution exposure and the incidence of cardiovascular diseases among American older adults"
+  image: dummy.png
+  description: ""
+  authors: Jin, T.; Di, Q.; Réquia, W.J.; Danesh Yazdi, M.; Castro, E.; Ma, T.; Wang, Y.; Zhang, H.; <b>Shi, L.</b>; Schwartz, J.;
+  link:
+    url: https://doi.org/10.1016/j.envint.2022.107594
+    display: Environment International, 2022
+  highlight: 0
+  news2:
+  first_or_cor: 0
  
 - title: "Long-term exposure to PM2.5 major components and mortality in the southeastern United States"
   image: dummy.png
