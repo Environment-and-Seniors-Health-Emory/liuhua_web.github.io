@@ -96,7 +96,18 @@
   highlight: 0
   news2:
   first_or_cor: 0
- 
+
+- title: "Air pollution, climate conditions and risk of hospital admissions for psychotic disorders in U.S. residents"
+  image: dummg.png
+  description: ""
+  authors: X. Qiu; Y. Wei; M. Weisskopf; A. Spiro; <b>Shi, L.</b>; E. Castro; B. Coull; P. Koutrakis; Schwartz, J.;
+  link:
+    url: https://doi.org/10.1016/j.envres.2022.114636
+    display: Environmental Research, 2022
+  highlight: 0
+  news2:
+  first_or_cor: 0
+  
 - title: "Associations between long-term exposures to airborne PM2.5 components and mortality in Massachusetts: mixture analysis exploration"
   image: dummg.png
   description: ""
