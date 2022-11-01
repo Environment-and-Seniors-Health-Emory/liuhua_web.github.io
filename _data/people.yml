@@ -62,19 +62,6 @@
   education4:
   education5:
   statement:
-
-- name: "Haomin Li"
-  photo: Haomin_Li.png
-  group_member: 1
-  info: Research Assistant
-  email: haomin.li@emory.edu
-  number_educ: 1
-  education1: 2021-, Epidemiology
-  education2: 
-  education3: 
-  education4:
-  education5:
-  statement:
   
 - name: "Haisu Zhang"
   photo: Haisu_Zhang.png
@@ -96,6 +83,19 @@
   email: tsz.shan.ma@emory.edu
   number_educ: 1
   education1: 2020-, Environmental Health
+  education2: 
+  education3: 
+  education4:
+  education5:
+  statement:
+  
+- name: "Haomin Li"
+  photo: Haomin_Li.png
+  group_member: 1
+  info: Doctoral Student
+  email: haomin.li@emory.edu
+  number_educ: 1
+  education1: 2022-, Environmental Health
   education2: 
   education3: 
   education4:
