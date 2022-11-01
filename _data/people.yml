@@ -50,6 +50,19 @@
   education5:
   statement:
   
+- name: "Yanling Deng"
+  photo: Yanling_Deng.jpg
+  group_member: 1
+  info: Postdoctoral Researcher 
+  email: yanling.deng@emory.edu
+  number_educ: 1
+  education1: 2022-, Epidemiology
+  education2:
+  education3:
+  education4:
+  education5:
+  statement:
+  
 - name: "Yifan Wang"
   photo: Yifan_Wang.png
   group_member: 1
