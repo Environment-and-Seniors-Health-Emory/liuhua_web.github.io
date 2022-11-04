@@ -8,6 +8,17 @@
   highlight: 0
   news2:
   first_or_cor: 0  
+  
+- title: "The effect of race and co-morbidities on Alzheimer's disease based on Medicare data"
+  image: dummy.png
+  description: ""
+  authors: Steenland, K.; Tan, Y.; Wingo, T.; <b>Shi, L.</b>; Xiao, S.; Wharton, W.; 
+  link:
+    url: https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.12838
+    display: Alzheimer's & dementia: the journal of the Alzheimer's Association, 2022
+  highlight: 0
+  news2:
+  first_or_cor: 0 
 
 - title: "The Impact of Exposure Measurement Error on the Estimated Concentration–Response Relationship between Long-Term Exposure to PM2.5 and Mortality"
   image: dummy.png
