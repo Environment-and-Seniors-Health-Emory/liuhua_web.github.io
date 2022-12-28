@@ -26,21 +26,10 @@
   authors: Steenland, K.; Tan, Y.; Wingo, T.; <b>Shi, L.</b>; Xiao, S.; Wharton, W. 
   link:
     url: https://doi.org/10.1002/alz.12838
-    display: "Alzheimer's & dementia: the journal of the Alzheimer's Association, 2022"
+    display: Alzheimer's & dementia: the journal of the Alzheimer's Association, 2022
   highlight: 0
   news2:
-  first_or_cor: 0
-  
-- title: "Short-term associations between ambient air pollution and emergency department visits for Alzheimer’s disease and related dementias"
-  image: dummy.png
-  description: ""
-  authors: Zhang, H.; <b>Shi, L.</b>; Ebelt, S.; D’Souza, R.; Schwartz, J.; Scovronick, N.; Chang, H. 
-  link:
-    url: https://doi.org/10.1002/alz.12838
-    display: "Environmental epidemiology, 2022"
-  highlight: 0
-  news2:
-  first_or_cor: 0  
+  first_or_cor: 0 
 
 - title: "The Impact of Exposure Measurement Error on the Estimated Concentration–Response Relationship between Long-Term Exposure to PM2.5 and Mortality"
   image: dummy.png
@@ -85,6 +74,17 @@
   highlight: 0
   news2:
   first_or_cor: 0
+
+- title: "Short-term associations between ambient air pollution and emergency department visits for Alzheimer’s disease and related dementias"
+  image: dummy.png
+  description: ""
+  authors: Zhang, H.; <b>Shi, L.</b>; Ebelt, S.; D’Souza, R.; Schwartz, J.; Scovronick, N.; Chang, H. 
+  link:
+    url: https://doi.org/10.1002/alz.12838
+    display: Environmental epidemiology, 2022
+  highlight: 0
+  news2:
+  first_or_cor: 0 
   
 - title: "Associations between long-term air pollution exposure and the incidence of cardiovascular diseases among American older adults"
   image: dummy.png
