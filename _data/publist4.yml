@@ -1,3 +1,14 @@
+- title: "Incident dementia and long-term exposure to constituents of fine particle air pollution: A national cohort study in the United States"
+  image: dummy.png
+  description: ""
+  authors: <b>Shi, L.</b>; Zhu, Q.; Wang, Y.; Hao, H.; Zhang, H.; Schwartz, J.; Amini, H.; van Donkelaar, A.; Martin, R.; Steenland, K.; Sarnat, J.; Caudle, M.; Ma, T.; Li, H.; Chang, H.; Liu, J.; Wingo, T.; Mao, X.; Russell, A.; Weber, R.; Liu, P.
+  link:
+    url: https://www.pnas.org/doi/epdf/10.1073/pnas.2211282119
+    display: PNAS, 2022
+  highlight: 0
+  news2:
+  first_or_cor: 0  
+   
 - title: "The 2022 report of the Lancet Countdown on health and climate change: health at the mercy of fossil fuels"
   image: dummy.png
   description: ""
@@ -7,7 +18,7 @@
     display: The Lancet, 2022
   highlight: 0
   news2:
-  first_or_cor: 0  
+  first_or_cor: 0
   
 - title: "The effect of race and co-morbidities on Alzheimer's disease based on Medicare data"
   image: dummy.png
@@ -18,7 +29,18 @@
     display: "Alzheimer's & dementia: the journal of the Alzheimer's Association, 2022"
   highlight: 0
   news2:
-  first_or_cor: 0 
+  first_or_cor: 0
+  
+- title: "Short-term associations between ambient air pollution and emergency department visits for Alzheimer’s disease and related dementias"
+  image: dummy.png
+  description: ""
+  authors: Zhang, H.; Shi, L.; Ebelt, S.; D’Souza, R.; Schwartz, J.; Scovronick, N.; Chang, H. 
+  link:
+    url: https://doi.org/10.1002/alz.12838
+    display: "Environmental epidemiology, 2022"
+  highlight: 0
+  news2:
+  first_or_cor: 0  
 
 - title: "The Impact of Exposure Measurement Error on the Estimated Concentration–Response Relationship between Long-Term Exposure to PM2.5 and Mortality"
   image: dummy.png
