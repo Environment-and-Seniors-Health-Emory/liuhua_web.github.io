@@ -140,6 +140,17 @@
   highlight: 0
   news2:
   first_or_cor: 0
+  
+- title: "Short-Term Associations between Ambient Temperature and Emergency Department Visits for Alzheimer's Disease and Related Dementia in Five Us States"
+  image: dummg.png
+  description: ""
+  authors: Zhang, Y.; Ebelt, S.; <b>Shi, L.</b>; Scovronick, N.; D’Souza, R.; Steenland, K.; Chang, H.
+  link:
+    url: https://doi.org/10.1016/j.envres.2022.115176
+    display: Environmental Research
+  highlight: 0
+  news2:
+  first_or_cor: 0
 
 - title: "Air pollution, climate conditions and risk of hospital admissions for psychotic disorders in U.S. residents"
   image: dummg.png
@@ -192,17 +203,6 @@
   link:
     url: 
     display: Frontiers in Public Health, 2022
-  highlight: 0
-  news2:
-  first_or_cor: 0
- 
-- title: "Short-Term Associations between Ambient Temperature and Emergency Department Visits for Alzheimer's Disease and Related Dementia in Five Us States"
-  image: dummg.png
-  description: ""
-  authors: Zhang, Y.; Ebelt, S.; <b>Shi, L.</b>; Scovronick, N.; D’Souza, R.; Steenland, K.; Chang, H.
-  link:
-    url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4083968
-    display: SSRN 4083968 (Preprint)
   highlight: 0
   news2:
   first_or_cor: 0
